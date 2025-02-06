@@ -2,6 +2,9 @@
 name = "backupsync"
 version = "0.1.0"
 edition = "2021"
+description = "A fast and efficient multi-threaded backup tool written in Rust, supporting compression, incremental backup, and automation."
+license = "MIT"
+authors = ["Lakshya Jain lakshyajain0740@gmail.com"]
 
 [dependencies]
 dirs = "6.0.0"
