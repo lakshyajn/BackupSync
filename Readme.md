@@ -64,7 +64,6 @@ cargo build --release
 
 3. Move the compiled binary to /usr/local/bin/ (Linux/macOS).
 <br>
-<br>
 
 ### 📌 Method 3: For Windows
 
